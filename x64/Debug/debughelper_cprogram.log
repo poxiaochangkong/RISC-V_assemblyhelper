@@ -1,0 +1,3 @@
+﻿  debughelper_cprogram.cpp
+C:\Users\xyp\Desktop\project_computer science\debughelper_cprogram\debughelper_cprogram.cpp(207,21): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  debughelper_cprogram.vcxproj -> C:\Users\xyp\Desktop\project_computer science\debughelper_cprogram\x64\Debug\debughelper_cprogram.exe
