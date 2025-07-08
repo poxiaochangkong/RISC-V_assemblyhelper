@@ -160,8 +160,8 @@ int main() {
     string line;
     int number = 0;
 
-    // 先按 ';' 分割行
-    while (getline(fin1, line, ';')) {
+    // 先按 ';' 分割行,可以改成'\n'
+    while (getline(fin1, line, '\n')) {
         stringstream ss(line);
         string token;
 
